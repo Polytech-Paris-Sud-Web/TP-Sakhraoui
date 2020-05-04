@@ -1,0 +1,8 @@
+<a routerLink="/articles" >List Articles</a>
+<form id="formCreation" #formCreation="ngForm">
+  <p>Création de formulaire:</p>
+  <input name="title" type="text" placeholder="title" [(ngModel)]="newArticle.title" required>
+  <input name="content" type="text" placeholder="content" [(ngModel)]="newArticle.content" required>
+  <input name="authors" type="text" placeholder="authors" [(ngModel)]="newArticle.authors" required>
+  <button type="button" id="submitCreation" class="createArticle" (click)="onSubmitNewArticle(formCreation)">Créer mon article</button>
+</form>

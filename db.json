@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "title": "Fake Title",
+      "content": "test",
+      "authors": "test",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "szas",
+      "content": "az",
+      "authors": "sazs"
+    },
+    {
+      "id": 7,
+      "title": "Tell",
+      "content": "dzz",
+      "authors": "lazd"
+    },
+    {
+      "id": 8,
+      "title": "sc",
+      "content": "wcs",
+      "authors": "csc"
+    },
+    {
+      "id": 9,
+      "title": "ssc",
+      "content": "scs",
+      "authors": "scsc"
+    },
+    {
+      "id": 10,
+      "title": "edded",
+      "content": "aszza",
+      "authors": "azs"
+    }
+  ]
+}
