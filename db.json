@@ -1,12 +1,6 @@
 {
   "articles": [
     {
-      "title": "Fake Title",
-      "content": "test",
-      "authors": "test",
-      "id": 5
-    },
-    {
       "id": 6,
       "title": "szas",
       "content": "az",
@@ -35,6 +29,12 @@
       "title": "edded",
       "content": "aszza",
       "authors": "azs"
+    },
+    {
+      "id": 11,
+      "title": "ariiiij",
+      "content": "sazs",
+      "authors": "szaz"
     }
   ]
 }
