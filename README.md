@@ -1,7 +1,3 @@
-# SimpleApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
-
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -14,14 +10,10 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
+## Why bother migrate?
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Reasons to migrate:
+- We can have all the new features and corrected bugs of previous versions
+-The AOT builds will be noticeably faster ensuring a significant change in the compiler's performance.
+-The Angular framework in the new version uses unique techniques and tools to debug its applications by themselves.
+-With IVY we see an improvement in the build error. It gives less time for the builds to complete enabling all the error messages easier to read.
